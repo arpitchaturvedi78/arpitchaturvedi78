@@ -1,12 +1,12 @@
 <!-- ===================== Banner ===================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Nandini Sharma Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Arpit Chaturvedi Banner" width="100%" />
 </p>
 
 <!-- ===================== Introduction ===================== -->
 
-<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+<h1 align="center">Hi 👋, I'm Arpit Chaturvedi</h1>
 
 <h3 align="center">
 Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About Building Modern & Responsive Web Applications 🚀
@@ -18,12 +18,12 @@ Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Graduated Computer Science Engineering Student
-- 💻 Passionate about building clean, scalable and user-friendly web applications.
-- 🚀 Continuously learning modern web technologies and best development practices.
-- 🌱 Currently expanding my knowledge in Backend Development and Full Stack Architecture.
+* 🎓 Graduated Computer Science Engineering Student
+* 💻 Passionate about building clean, scalable and user-friendly web applications.
+* 🚀 Continuously learning modern web technologies and best development practices.
+* 🌱 Currently expanding my knowledge in Backend Development and Full Stack Architecture.
 
 ---
 
@@ -33,56 +33,56 @@ Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About
 
 A responsive e-commerce application built with:
 
-- ⚛️ React.js
-- 🧭 React Router
-- 💛 JavaScript (ES6+)
-- 🎨 Tailwind CSS
+* ⚛️ React.js
+* 🧭 React Router
+* 💛 JavaScript (ES6+)
+* 🎨 Tailwind CSS
 
 ### Current Features
 
-- ✅ Reusable Components
-- ✅ Responsive UI
-- ✅ Product Pages
-- ✅ Routing
+* ✅ Reusable Components
+* ✅ Responsive UI
+* ✅ Product Pages
+* ✅ Routing
 
 ### Coming Soon
 
-- ⏳ Shopping Cart
-- ⏳ Authentication
-- ⏳ Backend Integration
+* ⏳ Shopping Cart
+* ⏳ Authentication
+* ⏳ Backend Integration
 
 ---
 
 ## 🌱 Currently Learning
 
-- JavaScript (Advanced ES6+)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- REST APIs
-- Tailwind CSS
+* JavaScript (Advanced ES6+)
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Firebase
+* REST APIs
+* Tailwind CSS
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- Open Source Projects
-- MERN Stack Applications
-- React.js Projects
-- JavaScript Projects
+* Open Source Projects
+* MERN Stack Applications
+* React.js Projects
+* JavaScript Projects
 
 ---
 
 ## 💡 Looking to Learn More About
 
-- Backend Architecture
-- Authentication
-- Docker
-- CI/CD
-- API Security
-- Cloud Deployment
+* Backend Architecture
+* Authentication
+* Docker
+* CI/CD
+* API Security
+* Cloud Deployment
 
 ---
 
@@ -112,15 +112,15 @@ A responsive e-commerce application built with:
 
 ## 💬 Ask Me About
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Responsive Web Design
-- Git & GitHub
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Responsive Web Design
+* Git & GitHub
 
 ---
 
@@ -166,11 +166,11 @@ A responsive e-commerce application built with:
 
 ## 🎯 2026 Goals
 
-- ⏳ Become a MERN Stack Developer
-- ⏳ Build Production-Ready Full Stack Applications
-- ⏳ Contribute to Open Source
-- ⏳ Learn Docker & CI/CD
-- 🎯 Secure a Software Developer Role
+* ⏳ Become a MERN Stack Developer
+* ⏳ Build Production-Ready Full Stack Applications
+* ⏳ Contribute to Open Source
+* ⏳ Learn Docker & CI/CD
+* 🎯 Secure a Software Developer Role
 
 ---
 
