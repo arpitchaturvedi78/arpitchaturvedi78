@@ -1,16 +1,181 @@
-## Hi there 👋
+<!-- ===================== Banner ===================== -->
 
-<!--
-**arpitchaturvedi78/arpitchaturvedi78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/banner.png" alt="Nandini Sharma Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ===================== Introduction ===================== -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+
+<h3 align="center">
+Aspiring Full Stack Web Developer • MERN Stack Enthusiast • Passionate About Building Modern & Responsive Web Applications 🚀
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=student-BPSMV&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Graduated Computer Science Engineering Student
+- 💻 Passionate about building clean, scalable and user-friendly web applications.
+- 🚀 Continuously learning modern web technologies and best development practices.
+- 🌱 Currently expanding my knowledge in Backend Development and Full Stack Architecture.
+
+---
+
+## 🚀 Currently Building
+
+### 🛒 Amazon Clone
+
+A responsive e-commerce application built with:
+
+- ⚛️ React.js
+- 🧭 React Router
+- 💛 JavaScript (ES6+)
+- 🎨 Tailwind CSS
+
+### Current Features
+
+- ✅ Reusable Components
+- ✅ Responsive UI
+- ✅ Product Pages
+- ✅ Routing
+
+### Coming Soon
+
+- ⏳ Shopping Cart
+- ⏳ Authentication
+- ⏳ Backend Integration
+
+---
+
+## 🌱 Currently Learning
+
+- JavaScript (Advanced ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- REST APIs
+- Tailwind CSS
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Open Source Projects
+- MERN Stack Applications
+- React.js Projects
+- JavaScript Projects
+
+---
+
+## 💡 Looking to Learn More About
+
+- Backend Architecture
+- Authentication
+- Docker
+- CI/CD
+- API Security
+- Cloud Deployment
+
+---
+
+## 📂 Featured Links
+
+<p align="center">
+
+<a href="https://github.com/student-BPSMV">
+  <img src="https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/student-BPSMV/student-BPSMV/blob/main/Resume(11-08-26).pdf">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nandini-sharma-218379273">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sharmanandini294@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💬 Ask Me About
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Responsive Web Design
+- Git & GitHub
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nandini-sharma-218379273" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:sharmanandini294@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/student-BPSMV">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,firebase" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=student-BPSMV&theme=github-compact" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ⏳ Become a MERN Stack Developer
+- ⏳ Build Production-Ready Full Stack Applications
+- ⏳ Contribute to Open Source
+- ⏳ Learn Docker & CI/CD
+- 🎯 Secure a Software Developer Role
+
+---
+
+<p align="center">
+
+> **"I enjoy transforming ideas into modern, responsive, and meaningful web applications while continuously learning new technologies."**
+
+</p>
