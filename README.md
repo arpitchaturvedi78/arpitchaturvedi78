@@ -1,8 +1,8 @@
 <!-- ===================== Banner ===================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" alt="Arpit Chaturvedi Banner" width="100%" />
-</p>
+</p> -->
 
 <!-- ===================== Introduction ===================== -->
 
